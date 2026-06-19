@@ -48,25 +48,6 @@ Push_Swap differs from traditional sorting algorithms because it optimizes **ins
 
 ---
 
-## Team and Task Distribution
-
-### 👩‍💻 Buse (@butanis)
-* Parsing & Validation
-* Stack Operations
-* Complex Quick Sort Design and Integration
-
-### 👨‍💻 Batuhan (@btop)
-* Stack Management
-* Simple Sort & Medium Chunk Sort
-* Benchmarking & Dispatcher
-
-### 🤝 Shared Responsibilities
-* Valgrind checks
-* Makefile optimization
-* Norminette compliance
-
----
-
 ## Installation and Testing
 
 ```bash
